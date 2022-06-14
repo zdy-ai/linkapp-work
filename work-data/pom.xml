@@ -11,6 +11,8 @@
 
     <artifactId>work-data</artifactId>
     <version>1.0.0</version>
+    <packaging>pom</packaging>
+
     <modules>
         <!-- CAS java 锁 -->
         <module>data-cas</module>

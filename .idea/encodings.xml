@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+  <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/work-data" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/work-data/data-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/work-data/data-api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/work-data/data-cas" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/work-data/dubbo-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/work-data/data-cas/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/work-data/transaction-byte-cc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/work-data/transaction-byte-cc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/work-datasource-mysql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/work-datasource-mysql/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/work-design" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/work-design/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/work-interview" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/work-interview/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/work-kafka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/work-kafka/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/work-ocr" charset="UTF-8" />
   </component>
 </project>
